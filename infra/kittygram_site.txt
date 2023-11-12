@@ -1,5 +1,5 @@
 IP: 84.201.164.17;
 name_taski: https://antonidastaski.hopto.org;
 name_kittygram: https://antonidasrus.hopto.org;
-login: antonidasrus;
+login: yc-user;
 password: F07d05d1992D;
